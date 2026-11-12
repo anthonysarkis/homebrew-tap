@@ -1,6 +1,6 @@
 cask "keyboard-switcher" do
-  version "1.0.3"
-  sha256 "bf46074530221db668e16fecde2693c34da161b80277fc414b5fc567004d3986"
+  version "1.0.4"
+  sha256 "ea1352ee22df4efbbbc8efe466fe75e835506e65df71db74f3aed7ce69c612cc"
 
   url "https://github.com/anthonysarkis/keyboard-switcher/releases/download/v#{version}/Keyboard-Switcher.zip"
   name "Keyboard Switcher"
